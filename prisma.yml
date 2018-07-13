@@ -1,0 +1,2 @@
+datamodel: datamodel.graphql
+endpoint: http://111.230.90.95:4466/market/dev
